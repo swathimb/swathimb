@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swathimb
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on end to end web app development
 - 📫 How to reach me swathimb41@gmail.com
 
